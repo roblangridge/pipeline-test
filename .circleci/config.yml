@@ -39,3 +39,5 @@ jobs:
       - run: yarn test
 
       - run: yarn coverage
+
+      - run: codacy-coverage -t
