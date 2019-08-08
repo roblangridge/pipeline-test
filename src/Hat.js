@@ -1,9 +1,8 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Hat from "./Hat";
 
-function App() {
+function Hat() {
   return (
     <div className="App">
       <header className="App-header">
@@ -17,12 +16,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React :) hooray!!
+          Learn React 123!
         </a>
       </header>
-      <Hat />
     </div>
   );
 }
 
-export default App;
+export default Hat;
