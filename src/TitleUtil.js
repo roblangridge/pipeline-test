@@ -1,3 +1,3 @@
 export const getTitle = () => {
-    return "Learn React";
+    return "Learn React!";
 };
